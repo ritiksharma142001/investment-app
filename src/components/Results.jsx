@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { calculateInvestmentResults, formatter } from "../util/investment";
 
 export default function Results({ user }) {
